@@ -1,9 +1,12 @@
-h1
-{text-align: center;
-font-size: 25px;
-color: #00ffff;
+h1{
+    text-align: center;
+    font-size: 25px;
+    color: #00ffff;
 }
 body {
     background-color: #00ffff;
 }
+.carro { 
+     width: 20%;
  
+}
