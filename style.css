@@ -15,5 +15,6 @@ body {
  background-image: url("Lamborghini-Aventador-PNG-File.png");
 }
 .button{
-  
+display: inline-block;
+padding: 10px 20px;
 }
